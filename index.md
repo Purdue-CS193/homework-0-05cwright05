@@ -1,4 +1,4 @@
-# Caden's first website
+# Caden's First CS193 Homework
 - Learning more about git
 - Learning other cool programming tools
 - Freedom to learn new things
