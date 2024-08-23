@@ -1,5 +1,7 @@
 # Caden's first website
-
+- Learning more about git
+- Learning other cool programming tools
+- Freedom to learn new things
 
 ## Welcome to GitHub Pages
 
